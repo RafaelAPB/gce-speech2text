@@ -1,0 +1,11 @@
+{
+  "config": {
+      "encoding":"LINEAR16",
+      "sampleRateHertz": 16000,
+      "languageCode": "pt-PT",
+      "enableWordTimeOffsets": false
+  },
+  "audio": {
+      "uri":"gs://easy-interview/interview.wav"
+  }
+}
